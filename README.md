@@ -1,5 +1,8 @@
 ### Hi there 👋
-[![GitHub Streak](https://streak-stats.demolab.com/?user=aniruddha211)](https://git.io/streak-stats)
+
+![Aniruddha's GitHub stats](https://github-readme-stats.vercel.app/api?username=aniruddha211&hide=contribs,prs)
+
+<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=aniruddha211)](https://git.io/streak-stats) -->
 
 <!--
 **aniruddha211/aniruddha211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
