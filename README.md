@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=aniruddha211&theme=highcontrast&hide_border=true&border_radius=7.3&sideLabels=4ADD56&stroke=DD2727&ring=A07FDD&fire=98DD78)](https://git.io/streak-stats)
+                 [![GitHub Streak](https://streak-stats.demolab.com?user=aniruddha211&theme=highcontrast&hide_border=true&border_radius=7.3&sideLabels=4ADD56&stroke=DD2727&ring=A07FDD&fire=98DD78)](https://git.io/streak-stats)
 
-![Aniruddha's GitHub stats](https://github-readme-stats.vercel.app/api?username=aniruddha211&hide=contribs,prs)
+                ![Aniruddha's GitHub stats](https://github-readme-stats.vercel.app/api?username=aniruddha211&hide=contribs,prs)
 
 <!--🐍💬SNAKETITLE / 🌐WEBSITE: https://textanim.com/ -->
 <p align="center">
