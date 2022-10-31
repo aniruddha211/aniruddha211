@@ -4,9 +4,6 @@
 
 ![Aniruddha's GitHub stats](https://github-readme-stats.vercel.app/api?username=aniruddha211&hide=contribs,prs)
 
-[![Avior's code::stats stats](https://codestats-readme.vercel.app/api?username=aniruddha211)](https://github.com/Aviortheking/codestats-readme)
-
-[![History](https://codestats-readme.vercel.app/api/history/?username=aniruddha211)](https://github.com/aviortheking/codestats-readme)
 
 <!--
 **aniruddha211/aniruddha211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
